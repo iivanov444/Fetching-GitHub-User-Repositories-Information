@@ -22,25 +22,25 @@ Run the program and it will prompt to type a GitHub username, if it's not valid 
 
 User's Repositories:
 
-Repository name: ExampleOne-Repository
-Description: An example some repository
-Language: Fortran
-Stars: 1
+Repository name: ExampleOne-Repository  
+Description: An example some repository  
+Language: Fortran  
+Stars: 1  
 
-Repository name: ExampleTwo-Repository
-Description: An example some repository
-Language: C
-Stars: 2
+Repository name: ExampleTwo-Repository  
+Description: An example some repository  
+Language: C  
+Stars: 2  
 
-Repository name: ExampleTwo-Repository
-Description: An example some repository
-Language: C++
-Stars: 3
+Repository name: ExampleTwo-Repository  
+Description: An example some repository  
+Language: C++  
+Stars: 3  
 
-Repository name: ExampleTwo-Repository
-Description: An example some repository
-Language: HolyC
-Stars: 4
+Repository name: ExampleTwo-Repository  
+Description: An example some repository  
+Language: HolyC  
+Stars: 4  
 
 ## License
 MIT License
