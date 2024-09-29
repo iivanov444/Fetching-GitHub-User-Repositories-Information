@@ -6,7 +6,7 @@ A python program for getting a GitHub user's repositories main information
 ## Dependencies
 1. Git - https://git-scm.com/downloads
 2. Python - https://www.python.org/downloads/
-3. Python requests module - https://pypi.org/project/requests/
+3. Python requests module - in Terminal -> pip install requests
 
 ## Installation
 1. Choose a folder where to download it
